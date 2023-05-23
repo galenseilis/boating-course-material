@@ -1,0 +1,10 @@
+WIND SPEED AND WEATHER WARNING FORECAST
+The wind speed in knots: 1 knot = 1.8 km / hour
+1 knot = 1.1 miles / hour
+
+When high wind speeds are expected, Environment Canada will issue a wind warning in the marine forecast and categorize them in four levels:
+
+Strong Wind Warning (20 – 33 knots) (37 – 61 km/h)
+Gale Warning (34 – 47 knots) (62 – 87 km/h)
+Storm Warning (48 – 63 knots) (88 – 117 km/h)
+Hurricane Force Wind Warning (64 knots or more) (118 km/h or more)

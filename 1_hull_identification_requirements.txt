@@ -1,0 +1,12 @@
+HULL IDENTIFICATION REQUIREMENTS
+All pleasure crafts made in Canada or imported to Canada (with or without motor) must have a Hull Serial Number (HIN) installed by a registered manufacturer, in accordance with the Small Vessel Regulations. The HIN provides an industry standard for identifying vessels. All owners and operators must verify that the HIN is affixed to the vessel. No person can alter, deface or remove a hull serial number.No character on the HIN is to be no less than 6 mm (1/4”) in height and width. The HIN is often used to find lost or stolen boats or boats that are subject to a recall. The HIN must be permanently marked on the outside upper starboard (right side) corner of the transom (the boater’s rear, flap end/above the water line), or as close to the area as possible. The HIN must also be identified on a second location on the hull, either under a fitting or a piece of hardware, or sometimes inside the vessel, unexposed. The HIN is 12 consecutive alpha-numeric characters long, beginning with the Manufacturer’s Identification Code (MIC).
+
+If a pleasure craft does not have a hull identification number the owner must contact the builder, manufacturer, rebuilder or the importer of the vessel to obtain one.
+
+Example: BDC8AC52F310
+
+MIC: BCD; Hull Number 8AC52; Construction Start Date: F3; Model Year: 10
+
+Note: The HIN can have an optional two character prefix to identify the country of origin (i.e. CA for CANADA).
+
+A manufacturer based in Canada or importing a vessel from the U.S. must have a MIC issued by Transport Canada. A MIC issued by the United States Coast Guard to US manufacturers is recognized in Canada by reciprocal agreement.

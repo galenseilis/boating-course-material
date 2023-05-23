@@ -1,0 +1,14 @@
+SOUND-SIGNALLING DEVICES
+institut-bateau_chap2_flute institut-bateau_chap2_siflet
+Boats under 12m (39 feet 4 inches) long must be equipped with a sound signalling device such as a whistle without a ball, a compressed gas horn or an electric horn. Boaters should be able to recognize sound signals from other boats. A short blast will last one second, a long blast is 4 to 6 seconds. Sound signalling devices are used as a method to communicate manoeuvring, to alert others of your presence in restricted visibility and finally, to draw attention to emergencies. Here are various codes or combinations used to indicate manoeuvres:
+
+1 short : Altering course to starboard
+2 short : Altering course to port
+3 short : Operating astern propulsion
+5 short : Danger
+1 long : A large boat is leaving the dock.
+ In restricted visibility, blasts are every two minutes:
+
+1 long: Under power, under way and making way
+2 long: Under power, under way and not making way
+1 long, 2 short: Not under command, drifting, fishing (trawling)

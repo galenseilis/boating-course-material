@@ -1,0 +1,10 @@
+THE CARDINAL BUOY SYSTEM
+Cardinal buoys refer to the four cardinal points to indicate the location of the hazard (north, south, east, and west). These four buoys are coloured yellow and black and have two black cones on top. To identify them, the cones on top differ from one another.
+
+A North cardinal buoy indicates the safest water is north of the buoy. The top half of the buoy is black and the lower half is yellow. On the upper part, there are two black cones both pointing upward.
+
+An East cardinal buoy indicates that the safest water is east of the buoy. The buoy is black with a yellow band in the center. It has two black cones at the top, the top cone is pointed upward and the bottom cone is pointed towards the water.
+
+A South cardinal buoy indicates that the safest water is south of the buoy. The top half of the buoy is yellow and the bottom half is black. It has two black cones on the top, both pointed towards the water.
+
+The West cardinal buoy indicates that the safest water is west of the buoy. The buoy is yellow with a black band at the center. It has two black cones, the top one is pointed downwards and the bottom one is pointed upward, thus pointing at each other.

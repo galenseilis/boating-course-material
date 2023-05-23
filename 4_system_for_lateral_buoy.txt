@@ -1,0 +1,12 @@
+SYSTEM FOR LATERAL BUOYS
+Lateral buoys indicate both sides of the channel where potential danger or hazards exists. It is important to know if you are going upstream or downstream. This can be determined by looking at your nautical charts unless you are familiar with the area.
+
+Lateral buoys are located alongside the recommended channel and can be seen from a good distance. The recommended passage is between those two buoys.
+
+The port-hand buoy is green and is located on the port-side (left) of your boat as you are travelling upstream. The green buoys are identified with letters and odd numbers.
+
+The starboard-hand buoy is red and is located on the starboard-side (right) of your boat as you are travelling upstream. The red buoys are identified with letters and even numbers.
+
+The port-hand day beacon is similar to a port-hand lateral buoy. It indicates the left side of a preferred channel. It must be on the left when the craft is going upstream. It has a black or green square centered on white and is surrounded by a green reflective boarder. It has no lights and is visible only during daylight.
+
+The starboard-hand day beacon is similar to a starboard-hand lateral buoy. It indicates the right side right of a preferred channel. It must be on the right when the craft is going upstream. It is identified as a red triangle with a white contoured line. It has no lights and is visible only during daylight.

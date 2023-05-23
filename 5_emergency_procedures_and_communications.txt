@@ -1,0 +1,33 @@
+EMERGENCY PROCEDURES AND COMMUNICATIONS
+Marine Radio Communications
+
+When an emergency occurs on the water it is essential to be able to communicate with the authorities on the shore or with other vessels in the area in order to get assistance. To achieve this, a new international system called the Global Maritime Distress and Safety System (GMDSS) has been developed. This system increases the efficiency of marine communication.  This system can be used by any types of vessels, from the smallest one to the biggest one. It can quickly transmit a distress call to the Coast Guard and to other vessels in the area. Finally, it also enables other types of non-emergency communications, like ship to shore, ports of calls and canal locks system authorities. Marine radios are used to incorporate safety calls as well, after an indication that the station calling is about to transmit a message concerning navigation safety as well as important weather warnings.
+
+At time of printing, the law stipulates that you must have a restricted operator’s certificate (ROC) issued by Industry Canada.
+
+Here is a list of regulated marine distress and safety communication equipment:
+
+marine VHF radios (with the new Digital Selective calling (DSC) option on channel 70);
+marine MF/HF – DSC radios;
+Emergency Position Indicating Radio Beacons (EPIRBs);
+NAVTEX; and
+Immarsat.
+Although it is not mandatory, it is recommended that pleasure crafts carry GMDSS-compatible equipment. If your pleasure craft has such equipment on board, connect it to a Global Positioning System (GPS).  This way, your exact position can be transmitted automatically as a distress signal and in a digital format.
+
+Marine VHF radios are the most common way of communicating a distress signal. When you can, always keep your VHF radio on channel 16. VHF radio channel 16 is used for emergency calling purposes only. Once you contact another vessel on channel 16 to give your exact position and the nature of your emergency, switch to another working frequency. The newer VHF marine radios have a new feature called the digital selective calling (DSC) on channel 70. This is used for digital communication and not for voice communication.  This new feature provides automatic digital distress alerts.  The Canadian Coast Guard has updated their systems to provide this service in many areas.  If you are using marine VHF radios you must be familiar with their operations and must follow strict procedures as described in the VHF Radiotelephone Practices and Procedures Regulations. To use channel 70  you must obtain a 9-digit Maritime Mobile Service Identity (MMSI) number from Industry Canada (call 1-800-667-3780) This service is free of charge. Once your number is assigned to you, read the instructions in your owner’s manual on how to make a DSC call to another boat or to a shore station that has DSC capability.
+
+If you have a marine VHF radio on board and you need to make an emergency distress call (for example your craft is rapidly taking water and / or you are in immediate danger of capsizing or sinking) use the channel 16 to make that call. Then say very clearly “Mayday – Mayday – Mayday” and give the name of your boat, its position, the nature of your problem and the type of help you need.
+
+If you need help but are not in immediate danger (for example your motor has stopped working and you cannot reach the shore), use channel 16 and say “Pan Pan – Pan Pan – Pan Pan” then give the name of your boat, its position, the nature of your problem and the type of help you need.
+
+Depending on where you are located and if you have a cellular signal, you may use your cell phone to get search and rescue assistance by dialling *16. Because cell phones are not always in range of a signal this should not be considered as a substitute to marine radio. These radios are recommended in case of emergency to ensure that your distress calls are received properly.
+
+ 
+
+Global Positioning System (GPS)
+
+Marine GPS were originally used by the Coast Guard to be able track ships as they travelled along the coastline. This gave them an idea as to what direction they were heading and how quickly they were travelling. It also enabled them to maintain communication between land and the vessel in case of an emergency.
+
+Marine GPS units have greatly evolved over the years; the technology now enables us to determine our exact position and use them along with marine charts to plan our routes and determine the safest way to get to our destination. More and more boaters have and use GPS systems on board. It is a world-wide radio-navigation system that links satellites and monitoring stations. It can determine your exact position within 30 metres. This type of technology could also allow you to avoid collisions with other crafts by determining your position and that of other crafts in the area.  Although all this new technology is very reliable and has proven itself over the years, it is always a good thing to have a backup system, like marine charts.
+
+If you use a GPS on the water, make sure it is a marine GPS. Road GPS will not provide you with all the information you need on the water.
